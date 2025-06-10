@@ -1,4 +1,4 @@
-# ONNX Runtime Sample Apps
+# Snapdragon Compute Sample Apps
 This repository contains sample apps for running ONNX models efficiently using [ONNX Runtime](https://onnxruntime.ai/), specifically targeting Qualcomm Hexagon NPU with [QNN Execution Provider](https://onnxruntime.ai/docs/execution-providers/QNN-ExecutionProvider.html)
 ## Table of Contents
 1. [Available Apps](#available-apps)
