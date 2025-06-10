@@ -34,7 +34,7 @@ Supported features:
    - [Installation Instructions](https://rustup.rs/)
 #### 1. Clone the Repository
 ```
->> git clone https://github.com/DerrickJ1612/qnn_sample_apps.git
+>> git clone https://github.com/qualcomm/snapdragon-compute-samples.git
 ```
 #### 2. Setup Virtual Environment
 ```
