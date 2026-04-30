@@ -3,4 +3,4 @@ onnxruntime_qnn==1.22.0
 Pillow==11.2.1
 torch==2.7.1
 torchvision==0.22.1
-notebook==7.4.1
+notebook==7.5.6
